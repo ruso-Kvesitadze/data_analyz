@@ -78,10 +78,9 @@ Each `ipynb` file processes specific year data.
  
 ## ℹ️ About me<a name="me"></a>:
 
- - Linkedin : https://www.linkedin.com/in/anri-tvalabeishvili/   
- - Facebook : https://www.facebook.com/Anri.Tvalabeishvil   
- - Github : https://github.com/anri-Tvalabeishvili    
- - stackoverflow : https://stackoverflow.com/users/17742066/anri-tvalabeishvili   
+- Facebook : https://www.facebook.com/ruso.kvesitadze 
+- Github : https://github.com/ruso-Kvesitadze    
+
   
 
  
